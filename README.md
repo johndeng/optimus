@@ -13,7 +13,6 @@ Run the following to your python environment:
 git clone git@github.com:johndeng/optimus.git
 cd optimus
 python setup.py install
-
 ```
 if want to using `Optimus` everywhere just install to system python.
 
