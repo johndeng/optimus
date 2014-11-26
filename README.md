@@ -7,6 +7,12 @@ Now optimus support create `Tornado` project structure.
 
 Installation
 ---
+Optimus are available on [pypi](https://pypi.python.org/pypi/py-optimus).
+
+Install it use `pip`:
+```
+$ pip install py-optimus
+```
 
 Run the following to your python environment:
 ```
